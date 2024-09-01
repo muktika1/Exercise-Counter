@@ -31,7 +31,7 @@ This project is a real-time exercise counter utilizing Mediapipe's Pose Detectio
 
 ## Usage
 
-1. **Start the Program:** Run `python3 exercise_counter.py` to start the application.
+1. **Start the Program:** Execute `python3 exercise_counter.py` in your terminal to launch the application.
 2. **Choose Exercise:** Input the exercise you want to track (Bicep Curls, Shoulder Press, Lateral Raises).
 3. **Perform the Exercise:** Start performing the selected exercise. The count will be displayed in real-time on the video feed.
 4. **Stop the Application:** Press `q` to quit the program.
